@@ -47,6 +47,6 @@
          "&kp TAB",        "&kp A",        "&kp S",    "&kp D",   "&lt 4 F", "&lt 2 G",            "&kp END",     "&mo 4",        "&mo 2",                                 "&mo 1",         "&mo 4", "&kp PG_DN",  "&kp H",  "&kp J",     "&kp K",    "&kp L", "&kp SEMI",   "&kp SQT",
        "&kp LSHFT",        "&kp Z",        "&kp X",    "&kp C",     "&kp V",   "&kp B",                                       "&kp LEFT_GUI",                     "&kp RIGHT_CONTROL",                                "&kp N",  "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH", "&kp RSHFT",
        "&kp LCTRL", "&kp LEFT_ALT", "&kp LEFT_GUI", "&kp LEFT", "&kp RIGHT",                       "&kp DEL", "&kp ENTER", "&kp LCTRL",                          "&kp LEFT_ALT", "&kp BACKSPACE", "&kp SPACE",           "&kp UP",  "&kp DOWN", "&kp LBKT", "&kp RBKT",     "&kt 0"
-    ],
+    ]
   ]
 }
