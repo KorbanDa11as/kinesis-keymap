@@ -1,1 +1,18 @@
-[]
+[
+	{
+		"code": "&mpk",
+		"name": "&mpk",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&mkp",
+		"name": "&mkp",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
