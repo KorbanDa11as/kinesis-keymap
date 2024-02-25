@@ -39,6 +39,12 @@
             key-positions = <33 32>;
             timeout-ms = <500>;
         };
+
+        to_mod_from_fn {
+            bindings = <&mo 4>;
+            key-positions = <33>;
+            layers = <3>;
+        };
     };
 
     keymap {
