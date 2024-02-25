@@ -14,5 +14,13 @@
 			"code"
 		],
 		"type": "UD"
+	},
+	{
+		"code": "&TT",
+		"name": "&TT",
+		"params": [
+			"code"
+		],
+		"type": "UD"
 	}
 ]
