@@ -54,8 +54,8 @@
 
         secondary_option_FN2_alt {
             bindings = <&mo 5>;
-            key-positions = <51 50>;
-            layers = <0 1>;
+            key-positions = <51>;
+            layers = <3>;
         };
     };
 
