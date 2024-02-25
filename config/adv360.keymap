@@ -42,7 +42,7 @@
 
         to_mod_from_fn {
             bindings = <&mo 4>;
-            key-positions = <33>;
+            key-positions = <32>;
             layers = <3>;
         };
     };
