@@ -37,6 +37,7 @@
         mod_layer {
             bindings = <&mo 4>;
             key-positions = <33 32>;
+            timeout-ms = <500>;
         };
     };
 
