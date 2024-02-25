@@ -49,13 +49,13 @@
         secondary_option_FN2 {
             bindings = <&mo 5>;
             key-positions = <50>;
-            layers = <4>;
+            layers = <3>;
         };
 
         secondary_option_FN2_alt {
             bindings = <&mo 5>;
-            key-positions = <51>;
-            layers = <3>;
+            key-positions = <49>;
+            layers = <4>;
         };
     };
 
