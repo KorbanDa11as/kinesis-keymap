@@ -34,12 +34,6 @@
     combos {
         compatible = "zmk,combos";
 
-        to2ndFn {
-            bindings = <&mo 4>;
-            key-positions = <33 32>;
-            timeout-ms = <500>;
-        };
-
         Second_FN_Layer {
             bindings = <&mo 4>;
             key-positions = <32>;
@@ -85,7 +79,7 @@
 &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &tog 1                                      &mo 3   &kp F7         &kp F8                 &kp F9           &kp F10            &kp F11        &kp F12
 &trans  &trans  &trans  &trans  &trans  &trans  &none                                       &none   &kp AMPERSAND  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp BACKSLASH  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &none   &trans  &trans      &trans  &trans  &none   &kp GRAVE      &kp LEFT_PARENTHESIS   &kp LEFT_BRACE   &kp LEFT_BRACKET   &kp EQUAL      &kp DOUBLE_QUOTES
-&trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &trans         &kp LESS_THAN          &kp AMPS         &kp PIPE           &kp SLASH      &trans
+&trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &gresc         &kp LESS_THAN          &kp AMPS         &kp PIPE           &kp SLASH      &trans
 &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans                 &trans                 &trans           &trans             &trans         &trans
             >;
         };
