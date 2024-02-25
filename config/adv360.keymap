@@ -39,6 +39,12 @@
             key-positions = <32>;
             layers = <3>;
         };
+
+        Second_FN_alternate {
+            bindings = <&mo 4>;
+            key-positions = <33>;
+            layers = <5>;
+        };
     };
 
     keymap {
