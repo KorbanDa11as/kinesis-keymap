@@ -57,6 +57,11 @@
             key-positions = <49>;
             layers = <4>;
         };
+
+        delete_word {
+            bindings = <&kp RC(BACKSPACE)>;
+            key-positions = <69 38>;
+        };
     };
 
     keymap {
