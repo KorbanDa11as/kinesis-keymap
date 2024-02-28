@@ -109,21 +109,21 @@
 
         layer_fn {
             bindings = <
-&kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &tog 1                                      &mo 4   &kp F7         &kp F8                 &kp F9           &kp F10            &kp F11        &kp F12
-&trans  &trans  &trans  &trans  &trans  &trans  &none                                       &none   &kp AMPERSAND  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp BACKSLASH  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &none   &trans  &trans      &trans  &trans  &none   &kp GRAVE      &kp LEFT_PARENTHESIS   &kp LEFT_BRACE   &kp LEFT_BRACKET   &kp EQUAL      &kp DOUBLE_QUOTES
-&trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &gresc         &kp LESS_THAN          &kp AMPS         &kp PIPE           &kp SLASH      &trans
-&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans                 &trans                 &trans           &trans             &trans         &trans
+&kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &tog 1                                      &mo 4   &kp F7         &kp F8                &kp F9          &kp F10            &kp F11    &kp F12
+&trans  &trans  &trans  &trans  &trans  &trans  &none                                       &none   &kp AMPERSAND  &kp SINGLE_QUOTE      &kp GRAVE       &kp DOUBLE_QUOTES  &kp EXCL   &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &none   &trans  &trans      &trans  &trans  &none   &kp GRAVE      &kp LEFT_PARENTHESIS  &kp LEFT_BRACE  &kp LEFT_BRACKET   &kp EQUAL  &kp DOUBLE_QUOTES
+&trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &gresc         &kp LESS_THAN         &kp AMPS        &kp PIPE           &kp SLASH  &trans
+&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans                 &trans                &trans          &trans             &trans     &trans
             >;
         };
 
         Second_FN {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                          &trans     &trans                 &trans                 &trans           &trans             &trans     &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                          &trans     &trans                 &kp PLUS               &kp ASTERISK     &kp MINUS          &trans     &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans   &trans      &trans  &trans    &trans     &kp RIGHT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp GRAVE  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                    &trans      &trans                       &trans                 &kp GREATER_THAN       &kp PERCENT      &kp PIPE           &kp EXCL   &trans
-&trans  &trans  &trans  &trans  &trans          &kp DEL  &kp RET  &trans      &trans  &kp BSPC  &kp SPACE                         &trans                 &trans           &trans             &trans     &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                          &trans     &trans                 &trans                 &trans           &trans             &trans         &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                          &trans     &trans                 &kp PLUS               &kp ASTERISK     &kp MINUS          &trans         &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans   &trans      &trans  &trans    &trans     &kp RIGHT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp GRAVE      &trans
+&trans  &trans  &trans  &trans  &trans  &trans                    &trans      &trans                       &trans                 &kp GREATER_THAN       &kp PERCENT      &kp PIPE           &kp BACKSLASH  &trans
+&trans  &trans  &trans  &trans  &trans          &kp DEL  &kp RET  &trans      &trans  &kp BSPC  &kp SPACE                         &trans                 &trans           &trans             &trans         &trans
             >;
         };
 
