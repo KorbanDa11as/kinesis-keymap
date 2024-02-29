@@ -61,7 +61,7 @@
         delete_word {
             bindings = <&kp RC(BACKSPACE)>;
             key-positions = <69 38>;
-            layers = <4>;
+            layers = <4 0 1>;
         };
     };
 
