@@ -121,8 +121,8 @@
         Second_FN {
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans  &trans                                          &trans     &trans                 &trans                 &trans           &trans             &trans         &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                          &trans     &trans                 &kp PLUS               &kp ASTERISK     &kp MINUS          &kp AT_SIGN    &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans   &trans      &trans  &trans    &trans     &kp RIGHT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp GRAVE      &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                          &trans     &trans                 &kp PLUS               &kp ASTERISK     &kp MINUS          &kp CARET      &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans   &trans      &trans  &trans    &trans     &kp RIGHT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp AT_SIGN    &trans
 &trans  &trans  &trans  &trans  &trans  &trans                    &trans      &trans                       &trans                 &kp GREATER_THAN       &kp PERCENT      &kp PIPE           &kp BACKSLASH  &trans
 &trans  &trans  &trans  &trans  &trans          &kp DEL  &kp RET  &trans      &trans  &kp BSPC  &kp SPACE                         &trans                 &trans           &trans             &trans         &trans
             >;
