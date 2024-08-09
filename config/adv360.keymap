@@ -100,11 +100,11 @@
 
         Second_Symbols {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                          &trans     &trans                 &trans                 &trans           &trans             &trans            &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                          &trans     &trans                 &kp PLUS               &kp ASTERISK     &kp MINUS          &kp AT            &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans   &trans      &trans  &trans    &trans     &kp RIGHT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp GREATER_THAN  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                    &trans      &trans                       &trans                 &kp EXCL               &kp PERCENT      &kp CARET          &kp BACKSLASH     &trans
-&trans  &trans  &trans  &trans  &trans          &kp DEL  &kp RET  &trans      &trans  &kp BSPC  &kp SPACE                         &trans                 &trans           &trans             &trans            &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &trans  &trans                 &trans                 &trans           &trans             &trans            &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &trans  &trans                 &kp PLUS               &kp ASTERISK     &kp MINUS          &kp AT            &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &kp RIGHT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp GREATER_THAN  &trans
+&trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &trans                 &kp EXCL               &kp PERCENT      &kp CARET          &kp BACKSLASH     &trans
+&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans                         &trans                 &trans           &trans             &trans            &trans
             >;
         };
 
