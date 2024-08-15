@@ -93,7 +93,7 @@
 &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &tog 0                                      &mo 3   &kp F7      &kp F8                &kp F9          &kp F10            &kp F11        &kp F12
 &trans  &trans  &trans  &trans  &trans  &trans  &none                                       &none   &trans      &kp SINGLE_QUOTE      &kp GRAVE       &kp DOUBLE_QUOTES  &kp LS(GRAVE)  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &none   &trans  &trans      &trans  &trans  &none   &kp DOLLAR  &kp LEFT_PARENTHESIS  &kp LEFT_BRACE  &kp LEFT_BRACKET   &kp LESS_THAN  &kp DOUBLE_QUOTES
-&trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &kp HASH    &kp EQUAL             &kp AMPS        &kp PIPE           &kp QUESTION   &trans
+&trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &kp HASH    &kp EQUAL             &kp AMPS        &kp PIPE           &kp SLASH      &trans
 &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans              &trans                &trans          &trans             &trans         &trans
             >;
         };
